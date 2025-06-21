@@ -1,0 +1,13 @@
+name: ChampionArenas
+version: '${project.version}'
+main: me.grownbowl.championsarena.Plugin
+api-version: '1.16'
+
+commands:
+  championsArenas:
+    aliases:
+      - ca
+
+  warp:
+    aliases:
+      - wp

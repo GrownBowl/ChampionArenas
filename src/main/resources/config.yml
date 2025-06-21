@@ -1,0 +1,33 @@
+warps:
+  top:
+    name: 'Топ 10 у арены'
+    location:
+      world: 'world'
+      x: 18
+      y: 74
+      z: 219
+
+messages:
+  game_started: "&9&lИгра началась!"
+  winner: "&cТы победил!"
+  looser: "&1Ты проиграл"
+  draw: "&9Ничья!"
+
+  game_winner: "&cТы победил в игре!"
+  game_looser: "&1Ты проиграл в игре"
+
+  message_prefix: "&b[ChampionArenas] >>> "
+
+boss_bar:
+  title: "Осталось %time% секунд"
+  bar_color: WHITE
+  bar_style: SOLID
+
+player_top:
+  line: "%player% - %wins%"
+  header: "ТОП 10 ИГРОКОВ НА АРЕНАХ"
+  spinning_item: GOLDEN_SWORD
+  world: "world"
+  x: 23
+  y: 75
+  z: 216
